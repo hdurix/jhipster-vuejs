@@ -93,8 +93,8 @@ jhipster -d --blueprint vuejs
 Apache-2.0 © [Deepu K Sasidharan](https://deepu.js.org)
 
 
-[npm-image]: https://img.shields.io/npm/v/generator-jhipster-vuejs.svg
-[npm-url]: https://npmjs.org/package/generator-jhipster-vuejs
+[npm-image]: https://img.shields.io/npm/v/jhipster-vuejs.svg
+[npm-url]: https://npmjs.org/package/jhipster-vuejs
 [travis-image]: https://travis-ci.org/jhipster/jhipster-vuejs.svg?branch=master
 [travis-url]: https://travis-ci.org/jhipster/jhipster-vuejs
 [daviddm-image]: https://david-dm.org/jhipster/jhipster-vuejs.svg?theme=shields.io
